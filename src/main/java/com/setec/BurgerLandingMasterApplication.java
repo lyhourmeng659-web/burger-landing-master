@@ -8,6 +8,6 @@ public class BurgerLandingMasterApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BurgerLandingMasterApplication.class, args);
-	}
+	}	
 
 }
